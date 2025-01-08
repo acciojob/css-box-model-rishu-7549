@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+.box {
+            width: 300px;
+			border:5px solid black;
+			padding:10px;
+            box-sizing: border-box;
+        }
+.container {
+            background-color: lightblue;
+            padding: 50px;
+			border: 1px solid black;
+        }
+.conta{
+	border:15px solid blue;
+	padding:20px;
+	margin:20px;
+}
+.con{
+	border:1px solid black;
+	margin:20px;
+}
